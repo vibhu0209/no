@@ -1,0 +1,26 @@
+h1 {
+    color: brown;
+}
+
+.Header{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+}
+
+ .grid{
+   
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-evenly;
+ }
+ .footer{
+     display: flex;
+     justify-content: flex-end;
+ }
+p,h2{
+    text-align: center;
+}
+body{
+    background-color: #c5d5cb;
+}
